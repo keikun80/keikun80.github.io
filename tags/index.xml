@@ -8,11 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>SRE</title>
+      <link>/tags/sre/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>개발자</title>
       <link>/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>모니터링</title>
+      <link>/tags/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81/</guid>
       <description></description>
     </item>
     
